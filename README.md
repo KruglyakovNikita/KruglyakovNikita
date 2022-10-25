@@ -12,7 +12,7 @@ I am a Full Stack Developer from Belarus.
 
 I know:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,materialui)](https://skillicons.dev)
 

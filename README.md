@@ -1,10 +1,10 @@
-I am a Full Stack Developer from Belarus.
+I am a **Full Stack Developer** from Belarus.
 
 👀 I’m interested in crypto
 
 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-📫How to reach me: nikitakruglyakovwork@gmail.com **OR** https://t.me/Zaline228
+📫How to reach me: **nikitakruglyakovwork@gmail.com** or **https://t.me/Zaline228**
 
 
 
@@ -14,7 +14,7 @@ I know:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,materialui,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,rabbitmq)](https://skillicons.dev)
 

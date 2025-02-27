@@ -14,11 +14,11 @@ I know:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,materialui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,vue,redux,html,css,figma,materialui,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,rabbitmq,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
 
 
 <!---

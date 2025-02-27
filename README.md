@@ -6,14 +6,21 @@ I am a **Senior Full-Stack Developer**.
 
 📫How to reach me: **nikitakruglyakovwork@gmail.com** or **https://t.me/Zaline228**
 
-I know:
+My main stack:
+[![My Stack](https://skillicons.dev/icons?i=js,ts,react,next,svelte,nodejs,exspress,postgres,mongodb,redis,tailwind,css,figma,bitbucket,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,python)](https://skillicons.dev)
+Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,vue,redux,html,css,figma,materialui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,python,php,java,cpp,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,rabbitmq,aws)](https://skillicons.dev)
+FrontendЖ
 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,vue,vite,html,css,figma,redux,materialui,tailwind,bootstrap)](https://skillicons.dev)
+
+Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,rabbitmq,aws,sequelize,swagger,jest,postman,nginx)](https://skillicons.dev)
+
+Database:
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
 
 

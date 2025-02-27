@@ -1,14 +1,10 @@
-I am a **Full Stack Developer** from Belarus.
+I am a **Senior Full-Stack Developer**.
 
-👀 I’m interested in crypto
+👀 I’m interested in web3
 
 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 📫How to reach me: **nikitakruglyakovwork@gmail.com** or **https://t.me/Zaline228**
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KruglyakovNikita&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
 I know:
 

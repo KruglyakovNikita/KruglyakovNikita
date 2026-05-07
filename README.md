@@ -1,10 +1,10 @@
-I am a **Senior Full-Stack Developer**.
+I am a **Senior Developer**.
 
 👀 I’m interested in web3
 
 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-📫How to reach me: **nikitakruglyakovwork@gmail.com** or **https://t.me/Zaline228**
+📫How to reach me: **nikitakruglyakovwork@gmail.com** or **[telegram](https://t.me/shizoki_ia)**
 
 My main stack:
 
